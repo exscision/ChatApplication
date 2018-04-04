@@ -1,6 +1,7 @@
 # ChatApplication
+```
 Chat Application Project - Database Programming
-
+```
 ### Description
 This is a chat application designed in Database Programming class. 
 We were asked to make a chat application with the following guidelines. 
@@ -22,7 +23,7 @@ Send an Email to every new user
 
 ### Getting Started
 ```
-### Installation
+Installation
 - Download the .zip file, and open the .sln file in Visual Studio. 
 - Build the .exe by running the code within visual studio.
 - Locate the .exe file that was created within the applications subfolders.
@@ -30,15 +31,20 @@ Send an Email to every new user
 ```
 
 ### Prerequisites
+```
 Microsoft Visual Studio
 Internet Connection
-
+```
 ### Built With
+```
 Microsoft Visual Studio - Used to design the interface and create the application
 Microsoft SSMS - Used as a database tool
-
+```
 ### Version
+```
 Current Version: 1.0
-
+```
 ### Authors
+```
 Zachary White - Database Programming student.
+```

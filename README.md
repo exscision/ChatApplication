@@ -21,7 +21,13 @@ Send an Email to every new user
 ```
 
 ### Getting Started
-
+```
+### Installation
+- Download the .zip file, and open the .sln file in Visual Studio. 
+- Build the .exe by running the code within visual studio.
+- Locate the .exe file that was created within the applications subfolders.
+- Run the exe. 
+```
 
 ### Prerequisites
 Microsoft Visual Studio
